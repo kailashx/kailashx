@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kailashx (Making a Hi-tech world with innovation)
 - 👀 I’m interested in creative engneering.
 - 🌱 I’m currently learning application development and python.
-- 💞️ I’m developing a Sensory learning method for next generation automatic systems. 
+- 💞️ I’m working on a Sensory learning method for next generation automatic systems. 
 - 📫 How to reach me: E-mail: chnadra97762@gmail.com
 
 <!---
